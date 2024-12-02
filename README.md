@@ -26,5 +26,18 @@ El solucionador también se puede ejecutar desde la línea de comandos utilizand
 `$ python solve.py expert-1.json`
 
 
+**Autoría**
+
+Este trabajo ha sido realizado por:
+
+- **Juan Manuel García**  
+- **Kevin Esguerra Cardona**  
+
+**Institución**: Universidad Tecnológica de Pereira  
+**Profesor**: Ramiro Andrés Barrios Valencia  
+**Curso**: Programación 3  
+**Semestre**: Segundo semestre de 2024
+
+
 
 
