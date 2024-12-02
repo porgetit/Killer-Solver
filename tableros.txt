@@ -1,0 +1,4 @@
+tablero 1 : KL2QTRYZ
+tablero 2 : KL5BEXHL
+tablero 3 : KL5DHZGW
+tablero 4 : KL5KLCQW
